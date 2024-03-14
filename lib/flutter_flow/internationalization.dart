@@ -109,7 +109,7 @@ final kTranslationsMap = <Map<String, Map<String, String>>>[
   // Login
   {
     '3p97u62u': {
-      'en': 'Welcome Back!',
+      'en': 'Welcome Back Javiko!',
       'id': 'Selamat Datang kembali!',
       'ms': 'Selamat kembali!',
     },

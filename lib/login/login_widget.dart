@@ -390,7 +390,7 @@ class _LoginWidgetState extends State<LoginWidget>
                           ),
                           Text(
                             FFLocalizations.of(context).getText(
-                              '3p97u62u' /* Welcome Back! */,
+                              '3p97u62u' /* Welcome Back Javiko! */,
                             ),
                             style: FlutterFlowTheme.of(context).displaySmall,
                           ).animateOnPageLoad(

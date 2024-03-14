@@ -1,0 +1,8 @@
+/node_modules
+/package-lock.json
+package-lock.json
+node_modules
+keypair.pem
+.gitignore
+dockerfile.old
+node_modules/*
